@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Acerca de mi
 👨🏻‍💻 Me dedico profesionalmente al desarrollo de software más de 
-**`4 años`** especializado en el **sector financiero**. Mi último trabajo fue como Ingeniero de desarrollo en el **`Banco del Austro`**. 💼 Actualmente trabajo en **`AUSTRORED`**. También realizo proyectos como **Freelancer**.  📚 Me gusta leer libros sobre educación financiera y emprendimiento. 👨🏻‍🏫 Me gusta trabajar en equipo, ayudar a los demás y mi principal valor es el respeto.
+**`4 años`** especializado en el **sector financiero**. Mi último trabajo fue como Ingeniero de desarrollo en el **`Banco del Austro`**. 💼 Actualmente trabajo en **`AustroRed`**. También realizo proyectos como **Freelancer**.  📚 Me gusta leer libros sobre educación financiera y emprendimiento. 👨🏻‍🏫 Me gusta trabajar en equipo, ayudar a los demás y mi principal valor es el respeto.
 
 [![](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/palaciosluismig)
 [![](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://www.instagram.com/palaciosluismig)
@@ -17,7 +17,7 @@ Mis proyectos que me siento más orgullos.
 casa por el asilamiento en la pandemia del **COVID-19**.
 2.  **`2022 >>>`** Creación del **Back-end** API Rest que consume un Chatbot de WhatsApp para el pago de deuda de tarjeta de crédito con débito automático a la cuenta de ahorros o correinte.
 3. **`2021 >>>`** Creación del **Back-end** API Rest para la generación de certificados digitales desde la APP Móvil del Banco del Austro con el cobro automatico a la tarjeta de crédito y envio de notificación a correo electrónico y sms.
-4. **`2020 >>>`** Creación del **Front-end** y **Back-end**  para los tarjetahabientes del Banco del Austro desde una página web puedan refinanciar la deuda de su tarjeta de crédito desde su 
+4. **`2020 >>>`** Creación del **Front-end** y **Back-end**  para los tarjetahabientes del Banco del Austro para que desde una página web puedan refinanciar la deuda de su tarjeta de crédito desde su casa.
 
 ## 🛠️ Tecnologías
 Las tecnologías que he utilizado.
