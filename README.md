@@ -3,11 +3,11 @@
 > 🎮 Más conocido en el mundo de los videojuegos como ![html5](https://img.shields.io/badge/EasyBug-1192ee)
 
 ## 🙋‍♂️ Acerca de mi
-Me dedico profesionalmente al desarrollo de software más de 
-**`4 años`** especializado en el **sector financiero**. Mi último trabajo fue como Ingeniero de desarrollo en el **`Banco del Austro`**. Actualmente trabajo en **`AUSTRORED`**. También realizo proyectos como **Freelancer**. 
+👨🏻‍💻 Me dedico profesionalmente al desarrollo de software más de 
+**`4 años`** especializado en el **sector financiero**. Mi último trabajo fue como Ingeniero de desarrollo en el **`Banco del Austro`**. 💼 Actualmente trabajo en **`AUSTRORED`**. También realizo proyectos como **Freelancer**.  📚 Me gusta leer libros sobre educación financiera y emprendimiento, me gusta trabajar en equipo, ayudar a los demás y mi principal valor es el respeto.
 
-
-
+[![](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/palaciosluismig)
+[![](https://img.shields.io/badge/Instagram-feda75?logo=instagram)](https://www.instagram.com/palaciosluismig)
 
 ## 💻 Proyectos
 A continuación, mis proyectos que me siento más orgullos.
@@ -81,3 +81,31 @@ Las tecnologías que he utilizado.
 [![](https://img.shields.io/badge/Git-black?logo=git)]()
 [![](https://img.shields.io/badge/GitHub-black?logo=github)]()
 [![](https://img.shields.io/badge/GitLab-black?logo=gitlab)]()
+
+## 👨🏻‍🎓 Educación
+
+- 📖 **Maestría en Ingeniería de Software y Sistemas Informáticos**\
+📆 2022 - 2023\
+📍 **Universidad Internacional de la Rioja** - España
+
+- 📖 **Ingeniería de Sistemas**\
+📆 2016 - 2020\
+📍 **Universidad Católica de Cuenca** - Ecuador
+
+## 💪🏻 Experiencia
+
+- 👨🏻‍💻 **Ingeniero de desarrollo Junior**\
+📆 Ago 2019 - Enero 2022\
+📍 **Banco del Austro** - Cuenca, Ecuador
+
+- 👨🏻‍💻 **Programador Senior**\
+📆 Enero 2022 - Mayo 2022\
+📍 **Master Moto** - Cuenca, Ecuador
+
+- 👨🏻‍💻 **Ingeniero de desarrollo Senior**\
+📆 Mayo 2022 - Septiembre 2022\
+📍 **Banco del Austro** - Cuenca, Ecuador
+
+- 👨🏻‍💻 **Ingeniero de desarrollo Senior**\
+📆 Octubre 2022 - Actualmente \
+📍 **AustoRed** - Cuenca, Ecuador
