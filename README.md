@@ -1,6 +1,8 @@
-# 👋 Hola, mi nombre es Luis Miguel desarrollador Full Stack
+# 👋 Hola, mi nombre es Luis Miguel 
 
-> 🎮 Más conocido en el mundo de los videojuegos como ![html5](https://img.shields.io/badge/EasyBug-1192ee)
+![html5](https://img.shields.io/badge/Desarrollador%20Full%20Stack-1192ee)
+
+> 🎮 Más conocido en el mundo de los videojuegos como **`EasyBug`** 
 
 ## 🙋‍♂️ Acerca de mi
 👨🏻‍💻 Me dedico profesionalmente al desarrollo de software más de 
