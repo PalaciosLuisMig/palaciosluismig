@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ Acerca de mi
 👨🏻‍💻 Me dedico profesionalmente al desarrollo de software más de 
-**`4 años`** especializado en el **sector financiero**. Mi último trabajo fue como Ingeniero de desarrollo en el **`Banco del Austro`**. 💼 Actualmente trabajo en **`AUSTRORED`**. También realizo proyectos como **Freelancer**.  📚 Me gusta leer libros sobre educación financiera y emprendimiento, me gusta trabajar en equipo, ayudar a los demás y mi principal valor es el respeto.
+**`4 años`** especializado en el **sector financiero**. Mi último trabajo fue como Ingeniero de desarrollo en el **`Banco del Austro`**. 💼 Actualmente trabajo en **`AUSTRORED`**. También realizo proyectos como **Freelancer**.  📚 Me gusta leer libros sobre educación financiera y emprendimiento. 👨🏻‍🏫 Me gusta trabajar en equipo, ayudar a los demás y mi principal valor es el respeto.
 
 [![](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/palaciosluismig)
-[![](https://img.shields.io/badge/Instagram-feda75?logo=instagram)](https://www.instagram.com/palaciosluismig)
+[![](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://www.instagram.com/palaciosluismig)
 
 ## 💻 Proyectos
-A continuación, mis proyectos que me siento más orgullos.
+Mis proyectos que me siento más orgullos.
 1.  **`2023 >>>`** Migración del **Back-end** Switch Transaccional de tarjetas de crédito y débito para soportar BIN 8 dígitos para las franquicias de VISA y MASTERCARD.
 casa por el asilamiento en la pandemia del **COVID-19**.
 2.  **`2022 >>>`** Creación del **Back-end** API Rest que consume un Chatbot de WhatsApp para el pago de deuda de tarjeta de crédito con débito automático a la cuenta de ahorros o correinte.
@@ -96,18 +96,18 @@ Las tecnologías que he utilizado.
 
 ## 💪🏻 Experiencia
 
-- 👨🏻‍💻 **Ingeniero de desarrollo Junior**\
-📆 Ago 2019 - Enero 2022\
+- 👨🏻‍💻 **Ingeniero de desarrollo Senior**\
+📆 Octubre 2022 - Actualmente \
+📍 **AustoRed** - Cuenca, Ecuador
+
+- 👨🏻‍💻 **Ingeniero de desarrollo Senior**\
+📆 Mayo 2022 - Septiembre 2022\
 📍 **Banco del Austro** - Cuenca, Ecuador
 
 - 👨🏻‍💻 **Programador Senior**\
 📆 Enero 2022 - Mayo 2022\
 📍 **Master Moto** - Cuenca, Ecuador
 
-- 👨🏻‍💻 **Ingeniero de desarrollo Senior**\
-📆 Mayo 2022 - Septiembre 2022\
+- 👨🏻‍💻 **Ingeniero de desarrollo Junior**\
+📆 Ago 2019 - Enero 2022\
 📍 **Banco del Austro** - Cuenca, Ecuador
-
-- 👨🏻‍💻 **Ingeniero de desarrollo Senior**\
-📆 Octubre 2022 - Actualmente \
-📍 **AustoRed** - Cuenca, Ecuador
