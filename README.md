@@ -11,6 +11,8 @@
 [![](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/palaciosluismig)
 [![](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://www.instagram.com/palaciosluismig)
 
+## 🔎 Conóceme un poco más
+
 <details>
   <summary>💻 Proyectos</summary>
 
