@@ -16,7 +16,7 @@
 <details>
   <summary>💻 Proyectos</summary>
 
-## Mis proyectos que me siento más orgullos:
+## Mis proyectos que más me siento orgulloso:
 
 1. **`2023 >>>`** Migración del **Back-end** Switch Transaccional de tarjetas de crédito y débito para soportar BIN 8 dígitos para las franquicias de VISA y MASTERCARD.
 2. **`2022 >>>`** Creación del **Front-end** y **Back-end** de un sitio web para buscar películas y programas de televisión llamado [PELIZ](https://peliz.netlify.app) donde se puede ver portada, fecha de lanzamiento, género, duración, descripción general y trailer.
