@@ -19,9 +19,9 @@
 ## Mis proyectos que más me siento orgulloso:
 
 1. **`2023 >>>`** Migración del **Back-end** Switch Transaccional de tarjetas de crédito y débito para soportar BIN 8 dígitos para las franquicias de VISA y MASTERCARD.
-2. **`2022 >>>`** Creación del **Front-end** y **Back-end** de un sitio web para buscar películas y programas de televisión llamado [PELIZ](https://peliz.netlify.app) donde se puede ver portada, fecha de lanzamiento, género, duración, descripción general y trailer.
-3. **`2022 >>>`** Creación del **Back-end** API Rest que consume un Chatbot de WhatsApp para el pago de deuda de tarjeta de crédito con débito automático a la cuenta de ahorros o correinte.
-4. **`2021 >>>`** Creación del **Back-end** API Rest para la generación de certificados digitales desde la APP Móvil del Banco del Austro con el cobro automatico a la tarjeta de crédito y envio de notificación a correo electrónico y sms.
+2. **`2022 >>>`** Creación del **Front-end** y **Back-end** de un sitio web para buscar películas y programas de televisión llamado [PELIZ](https://peliz.netlify.app) donde se puede ver portada, fecha de lanzamiento, género, duración, descripción general y trailer | Tarea enviado en Maestría.
+3. **`2022 >>>`** Creación del **Back-end** API Rest que consume un Chatbot de WhatsApp para el pago de deuda de tarjeta de crédito con débito automático a la cuenta de ahorros o corriente.
+4. **`2021 >>>`** Creación del **Back-end** API Rest para la generación de certificados digitales desde la APP Móvil del Banco del Austro con el cobro automático a la tarjeta de crédito y envío de notificación a correo electrónico y SMS.
 5. **`2020 >>>`** Creación del **Front-end** y **Back-end**  para los tarjetahabientes del Banco del Austro para que desde una página web puedan refinanciar la deuda de su tarjeta de crédito desde su casa por el asilamiento en la pandemia del **COVID-19**.
 
 </details>
